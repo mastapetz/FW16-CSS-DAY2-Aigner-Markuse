@@ -2,6 +2,13 @@ img {
   width: 50px;
 }
 #face {
+  position: absolute;
   width: 400px;
 }
-
+#eyes1 {
+  position: absolute;
+  top: 225px;
+  left: 200px;
+  transform: translate(-50%, -50%);
+  width: 200px;
+}
