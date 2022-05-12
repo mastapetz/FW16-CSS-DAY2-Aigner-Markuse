@@ -1,0 +1,46 @@
+.container {
+  width: 800px;
+  justify-content: center;
+  margin: 0 auto;
+  padding-left: 50px;
+  padding-right: 50px;
+  box-shadow: 0 5px 0 5px slategray;
+}
+p,
+li {
+  color: #707070;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+header {
+  text-align: center;
+}
+h1 {
+  color: #db0038;
+}
+h2 {
+  color: #3998a3;
+}
+h3 {
+  color: #474747;
+}
+
+.hero {
+  background-color: #f4f4f4;
+  position: relative;
+  text-align: center;
+  padding-bottom: 10px;
+}
+/* .rating {
+  text-align: center;
+}
+
+.rating span {
+  color: #f4b400;
+  size: 25px;
+} */
+
+footer {
+  text-align: center;
+}
