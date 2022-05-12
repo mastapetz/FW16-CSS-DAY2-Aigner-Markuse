@@ -1,5 +1,6 @@
 .header {
-  position: absolute;
+  float: left;
+  /* position: absolute; */
   background-color: aquamarine;
   top: 0;
   left: 0;
@@ -19,11 +20,17 @@
 
 #column1 {
   float: left;
+  width: 30%;
+  padding: 0% 0.5% 0% 0.5%;
+  /* margin: 0 auto; */
 }
 
 #column2 {
   float: left;
+  width: 30%;
 }
 #column3 {
   float: right;
+  width: 30%;
+  padding: 0% 0.5% 0% 0.5%;
 }
