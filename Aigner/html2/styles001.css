@@ -1,0 +1,29 @@
+.header {
+  position: absolute;
+  background-color: aquamarine;
+  top: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.header > img {
+  position: relative;
+  width: 250px;
+  display: inline-block;
+  margin: 0 auto;
+}
+.header nav {
+  border: 3px solid chartreuse;
+}
+
+#column1 {
+  float: left;
+}
+
+#column2 {
+  float: left;
+}
+#column3 {
+  float: right;
+}
