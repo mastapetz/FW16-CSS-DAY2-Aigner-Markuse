@@ -7,7 +7,7 @@ body {
   margin: 0 auto;
   padding-right: 50px;
   padding-left: 50px;
-  box-shadow: 0 8px 8px 0 darkgrey;
+  box-shadow: 0 8px 8px 0 #464939;
 }
 p,
 li {
@@ -24,9 +24,9 @@ h2 {
 }
 h3 {
   color: #474747;
+  font-size: 12pt;
 }
 .hero {
-  background-color: #f4f4f4;
   text-align: center;
   padding-bottom: 10px;
 }
