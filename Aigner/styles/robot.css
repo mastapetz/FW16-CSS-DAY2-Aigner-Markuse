@@ -32,3 +32,18 @@ img {
   left: 200px;
   transform: translate(-50%, -50%);
 }
+#ears2 {
+  position: absolute;
+  top: 225px;
+  left: 212px;
+  transform: translate(-50%, -50%);
+  width: 450px;
+}
+
+#ears1,
+#mouth2,
+#nose1,
+#hair2,
+#eyes2 {
+  visibility: hidden;
+}
