@@ -2,7 +2,7 @@ img {
   width: 50px;
 }
 #face {
-  position: absolute;
+  position: absolute; /*not needed*/
   width: 400px;
 }
 #eyes1 {
@@ -11,4 +11,11 @@ img {
   left: 200px;
   transform: translate(-50%, -50%);
   width: 200px;
+}
+#hair1 {
+  position: absolute;
+  top: 125px;
+  left: 210px;
+  transform: translate(-50%, -50%);
+  width: 315px;
 }
