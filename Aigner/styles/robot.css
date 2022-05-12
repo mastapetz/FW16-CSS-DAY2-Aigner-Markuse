@@ -26,3 +26,9 @@ img {
   transform: translate(-50%, -50%);
   width: 100px;
 }
+#mouth1 {
+  position: absolute;
+  top: 355px;
+  left: 200px;
+  transform: translate(-50%, -50%);
+}
